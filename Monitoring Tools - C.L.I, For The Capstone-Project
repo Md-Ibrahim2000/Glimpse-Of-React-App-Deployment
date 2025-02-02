@@ -98,7 +98,7 @@ Open http://<server-ip>:3000.
 
 Default credentials:
 Username: admin
-Password: admin (you’ll be prompted to change it).
+Password: admin (youâ€™ll be prompted to change it).
 
 Add Prometheus as a Data Source:
 
