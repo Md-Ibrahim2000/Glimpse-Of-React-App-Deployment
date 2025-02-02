@@ -1,2 +1,2 @@
-# Glimpse-Of-React-App-Deployment
+# Glimpse-Of-React-Application-Deployment
 Capstone - Project - Zen-Class
